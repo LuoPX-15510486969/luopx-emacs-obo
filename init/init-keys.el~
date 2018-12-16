@@ -1,0 +1,6 @@
+(lazy-set-key
+ '(
+   ("<f5>" . restart-emacs)
+
+   ))
+
